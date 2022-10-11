@@ -1,5 +1,5 @@
 # 19CS307-Lab-Ex.No-3
-# Lab Exercise 3
+# HTML Formatting tags
 # Date : 20-09-2022
 # AIM :
 To compose the HTML code to display the four chemical equations as formatted in the HTML formatting tags pdf:
